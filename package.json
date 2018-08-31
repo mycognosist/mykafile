@@ -1,0 +1,18 @@
+{
+  "name": "mykafile",
+  "version": "1.0.0",
+  "description": "A culture library & cultivation log for tracking the expansion of mycelia. Built as a way to learn more about kappa-core.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "hypercore": "^6.18.2",
+    "kappa-core": "^2.3.0",
+    "memdb": "^1.3.1"
+  }
+}
